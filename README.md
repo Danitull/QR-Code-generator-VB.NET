@@ -1,1 +1,1 @@
-In the design there is a label used to output the errors or succes of the QR code generator.
+In the design there is a label used to output the errors or succes of the QR code generator called label1.
